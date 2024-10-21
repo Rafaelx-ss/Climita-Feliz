@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Seoul, KR 🌐
+**Ciudad:** Stockholm, SE 🌐
 **Clima:** 🌈 Cielo claro
-**Fecha:** 📅 19, 10, 2024 🚀
+**Fecha:** 📅 21, 10, 2024 🚀
