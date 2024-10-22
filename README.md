@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Hong Kong, HK 🌐
-**Clima:** ☁️ Nubes dispersas
+**Ciudad:** Monterrey, MX 🌐
+**Clima:** ☁️ Nubes
 **Fecha:** 📅 21, 10, 2024 🚀
