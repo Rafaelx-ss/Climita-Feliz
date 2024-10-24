@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Bogota, CO 🌐
-**Clima:** 🌈 Muy nuboso
+**Ciudad:** Tijuana, MX 🌐
+**Clima:** 🌈 Cielo claro
 **Fecha:** 📅 24, 10, 2024 🚀
