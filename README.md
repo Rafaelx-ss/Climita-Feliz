@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Paris, FR 🌐
-**Clima:** 🌈 Cielo claro
-**Fecha:** 📅 22, 10, 2024 🚀
+**Ciudad:** Singapore, SG 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 23, 10, 2024 🚀
