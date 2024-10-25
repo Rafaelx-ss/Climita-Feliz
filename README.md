@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Tijuana, MX 🌐
-**Clima:** 🌈 Cielo claro
-**Fecha:** 📅 24, 10, 2024 🚀
+**Ciudad:** Seoul, KR 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 25, 10, 2024 🚀
