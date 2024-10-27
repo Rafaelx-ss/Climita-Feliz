@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Aguascalientes, MX 🌐
+**Ciudad:** Las Vegas, US 🌐
 **Clima:** 🌈 Cielo claro
-**Fecha:** 📅 26, 10, 2024 🚀
+**Fecha:** 📅 27, 10, 2024 🚀
