@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Vienna, AT 🌐
-**Clima:** 🌈 Niebla
-**Fecha:** 📅 25, 10, 2024 🚀
+**Ciudad:** Aguascalientes, MX 🌐
+**Clima:** 🌈 Cielo claro
+**Fecha:** 📅 26, 10, 2024 🚀
