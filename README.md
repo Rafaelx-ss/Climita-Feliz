@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Barcelona, ES 🌐
-**Clima:** ☁️ Algo de nubes
+**Ciudad:** Stockholm, SE 🌐
+**Clima:** 🌈 Cielo claro
 **Fecha:** 📅 27, 10, 2024 🚀
