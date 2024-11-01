@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Saltillo, MX 🌐
+**Ciudad:** Beijing, CN 🌐
 **Clima:** 🌈 Cielo claro
-**Fecha:** 📅 30, 10, 2024 🚀
+**Fecha:** 📅 31, 10, 2024 🚀
