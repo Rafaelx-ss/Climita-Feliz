@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Beijing, CN 🌐
-**Clima:** 🌈 Cielo claro
-**Fecha:** 📅 31, 10, 2024 🚀
+**Ciudad:** Miami, US 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 01, 11, 2024 🚀
