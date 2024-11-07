@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Lagos, NG 🌐
+**Ciudad:** Beijing, CN 🌐
 **Clima:** ☁️ Nubes
 **Fecha:** 📅 07, 11, 2024 🚀
