@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Miami, US 🌐
+**Ciudad:** Lagos, NG 🌐
 **Clima:** ☁️ Nubes
-**Fecha:** 📅 06, 11, 2024 🚀
+**Fecha:** 📅 07, 11, 2024 🚀
