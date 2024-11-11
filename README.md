@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Buenos Aires, AR 🌐
-**Clima:** 🌧️ Lluvia ligera
+**Ciudad:** Cairo, EG 🌐
+**Clima:** 🌈 Cielo claro
 **Fecha:** 📅 10, 11, 2024 🚀
