@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Cairo, EG 🌐
-**Clima:** 🌈 Cielo claro
-**Fecha:** 📅 10, 11, 2024 🚀
+**Ciudad:** Warsaw, PL 🌐
+**Clima:** 🌈 Llovizna ligera
+**Fecha:** 📅 12, 11, 2024 🚀
