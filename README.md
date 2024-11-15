@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Warsaw, PL 🌐
-**Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 13, 11, 2024 🚀
+**Ciudad:** Beijing, CN 🌐
+**Clima:** 🌈 Cielo claro
+**Fecha:** 📅 14, 11, 2024 🚀
