@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Hong Kong, HK 🌐
+**Ciudad:** San Luis Potosí, MX 🌐
 **Clima:** ☁️ Nubes
 **Fecha:** 📅 16, 11, 2024 🚀
