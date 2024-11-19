@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Johannesburg, ZA 🌐
-**Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 18, 11, 2024 🚀
+**Ciudad:** Baghdad, IQ 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 19, 11, 2024 🚀
