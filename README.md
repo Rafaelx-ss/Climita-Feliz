@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Baghdad, IQ 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 19, 11, 2024 🚀
+**Ciudad:** Santa Cruz de la Sierra, BO 🌐
+**Clima:** 🌤️ Nubes dispersas
+**Fecha:** 📅 20, 11, 2024 🚀
