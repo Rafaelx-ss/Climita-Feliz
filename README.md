@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Recife, BR 🌐
-**Clima:** 🌤️ Nubes dispersas
+**Ciudad:** Halifax, CA 🌐
+**Clima:** 🌈 Muy nuboso
 **Fecha:** 📅 21, 11, 2024 🚀
