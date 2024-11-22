@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Halifax, CA 🌐
-**Clima:** 🌈 Muy nuboso
+**Ciudad:** Durango, MX 🌐
+**Clima:** ☀️ Cielo claro
 **Fecha:** 📅 21, 11, 2024 🚀
