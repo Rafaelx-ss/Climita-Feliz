@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Las Vegas, US 🌐
-**Clima:** ☀️ Cielo claro
+**Ciudad:** Oslo, NO 🌐
+**Clima:** 🌧️ Lluvia moderada
 **Fecha:** 📅 24, 11, 2024 🚀
