@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Miami, US 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 26, 11, 2024 🚀
+**Ciudad:** Bucharest, RO 🌐
+**Clima:** 🌫️ Niebla
+**Fecha:** 📅 27, 11, 2024 🚀
