@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Bucharest, RO 🌐
+**Ciudad:** Boston, US 🌐
 **Clima:** 🌫️ Niebla
-**Fecha:** 📅 27, 11, 2024 🚀
+**Fecha:** 📅 28, 11, 2024 🚀
