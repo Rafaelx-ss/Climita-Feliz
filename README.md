@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Boston, US 🌐
+**Ciudad:** Kolkata, IN 🌐
 **Clima:** 🌫️ Niebla
-**Fecha:** 📅 28, 11, 2024 🚀
+**Fecha:** 📅 29, 11, 2024 🚀
