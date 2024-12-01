@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Kolkata, IN 🌐
-**Clima:** 🌫️ Niebla
-**Fecha:** 📅 29, 11, 2024 🚀
+**Ciudad:** Lisbon, PT 🌐
+**Clima:** 🌧️ Lluvia ligera
+**Fecha:** 📅 01, 12, 2024 🚀
