@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Recife, BR 🌐
-**Clima:** ☁️ Algo de nubes
-**Fecha:** 📅 01, 12, 2024 🚀
+**Ciudad:** Córdoba, AR 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 02, 12, 2024 🚀
