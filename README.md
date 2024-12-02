@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Córdoba, AR 🌐
-**Clima:** ☀️ Cielo claro
+**Ciudad:** Ho Chi Minh City, VN 🌐
+**Clima:** 🌧️ Lluvia ligera
 **Fecha:** 📅 02, 12, 2024 🚀
