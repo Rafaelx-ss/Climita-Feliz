@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** San Luis Potosí, MX 🌐
-**Clima:** 🌈 Muy nuboso
+**Ciudad:** Delhi, IN 🌐
+**Clima:** 🌫️ Niebla
 **Fecha:** 📅 04, 12, 2024 🚀
