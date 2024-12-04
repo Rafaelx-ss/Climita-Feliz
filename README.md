@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Salvador, BR 🌐
-**Clima:** 🌤️ Nubes dispersas
+**Ciudad:** San Luis Potosí, MX 🌐
+**Clima:** 🌈 Muy nuboso
 **Fecha:** 📅 04, 12, 2024 🚀
