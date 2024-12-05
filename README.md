@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Maracaibo, VE 🌐
-**Clima:** 🌤️ Nubes dispersas
+**Ciudad:** Washington D.C., US 🌐
+**Clima:** ☀️ Cielo claro
 **Fecha:** 📅 04, 12, 2024 🚀
