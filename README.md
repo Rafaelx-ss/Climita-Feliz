@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Morelia, MX 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 06, 12, 2024 🚀
+**Ciudad:** Manila, PH 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 08, 12, 2024 🚀
