@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Bogota, CO 🌐
+**Ciudad:** Winnipeg, CA 🌐
 **Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 08, 12, 2024 🚀
+**Fecha:** 📅 09, 12, 2024 🚀
