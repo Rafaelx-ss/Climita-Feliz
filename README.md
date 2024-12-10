@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Winnipeg, CA 🌐
+**Ciudad:** Chicago, US 🌐
 **Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 09, 12, 2024 🚀
+**Fecha:** 📅 10, 12, 2024 🚀
