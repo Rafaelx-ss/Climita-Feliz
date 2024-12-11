@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Budapest, HU 🌐
-**Clima:** 🌈 Muy nuboso
+**Ciudad:** Barranquilla, CO 🌐
+**Clima:** ☁️ Algo de nubes
 **Fecha:** 📅 11, 12, 2024 🚀
