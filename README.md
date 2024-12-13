@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** León, MX 🌐
-**Clima:** ☀️ Cielo claro
+**Ciudad:** Edmonton, CA 🌐
+**Clima:** 🌈 Muy nuboso
 **Fecha:** 📅 12, 12, 2024 🚀
