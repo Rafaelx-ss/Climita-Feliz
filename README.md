@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Mumbai, IN 🌐
-**Clima:** 💨 Humo
+**Ciudad:** Marrakesh, MA 🌐
+**Clima:** ☀️ Cielo claro
 **Fecha:** 📅 14, 12, 2024 🚀
