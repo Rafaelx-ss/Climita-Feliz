@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Guayaquil, EC 🌐
-**Clima:** 🌈 Muy nuboso
+**Ciudad:** Mumbai, IN 🌐
+**Clima:** 💨 Humo
 **Fecha:** 📅 14, 12, 2024 🚀
