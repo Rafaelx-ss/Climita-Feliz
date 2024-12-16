@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Rosario, AR 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 15, 12, 2024 🚀
+**Ciudad:** Johannesburg, ZA 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 16, 12, 2024 🚀
