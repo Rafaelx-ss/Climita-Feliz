@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Mérida, MX 🌐
+**Ciudad:** Guayaquil, EC 🌐
 **Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 20, 12, 2024 🚀
+**Fecha:** 📅 21, 12, 2024 🚀
