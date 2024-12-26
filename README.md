@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Pyongyang, KP 🌐
+**Ciudad:** Muscat, OM 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 25, 12, 2024 🚀
+**Fecha:** 📅 26, 12, 2024 🚀
