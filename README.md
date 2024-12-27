@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Muscat, OM 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 26, 12, 2024 🚀
+**Ciudad:** Dublin, IE 🌐
+**Clima:** 🌈 Llovizna ligera
+**Fecha:** 📅 27, 12, 2024 🚀
