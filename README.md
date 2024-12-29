@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Delhi, IN 🌐
-**Clima:** 🌫️ Niebla
-**Fecha:** 📅 28, 12, 2024 🚀
+**Ciudad:** Asunción, PY 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 29, 12, 2024 🚀
