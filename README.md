@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** San Francisco, US 🌐
-**Clima:** 🌤️ Nubes dispersas
+**Ciudad:** Tijuana, MX 🌐
+**Clima:** 🌫️ Niebla
 **Fecha:** 📅 30, 12, 2024 🚀
