@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Tijuana, MX 🌐
-**Clima:** 🌫️ Niebla
-**Fecha:** 📅 30, 12, 2024 🚀
+**Ciudad:** Barranquilla, CO 🌐
+**Clima:** 🌧️ Lluvia ligera
+**Fecha:** 📅 31, 12, 2024 🚀
