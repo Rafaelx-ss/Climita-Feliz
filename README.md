@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Kigali, RW 🌐
-**Clima:** 🌤️ Nubes dispersas
+**Ciudad:** Pune, IN 🌐
+**Clima:** ☁️ Algo de nubes
 **Fecha:** 📅 02, 01, 2025 🚀
