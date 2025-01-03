@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Pune, IN 🌐
+**Ciudad:** Paris, FR 🌐
 **Clima:** ☁️ Algo de nubes
-**Fecha:** 📅 02, 01, 2025 🚀
+**Fecha:** 📅 03, 01, 2025 🚀
