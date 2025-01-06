@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Santiago de Cali, CO 🌐
+**Ciudad:** Copenhagen, DK 🌐
 **Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 05, 01, 2025 🚀
+**Fecha:** 📅 06, 01, 2025 🚀
