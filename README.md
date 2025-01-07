@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Copenhagen, DK 🌐
-**Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 06, 01, 2025 🚀
+**Ciudad:** Johannesburg, ZA 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 07, 01, 2025 🚀
