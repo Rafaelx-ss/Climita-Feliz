@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Johannesburg, ZA 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 07, 01, 2025 🚀
+**Ciudad:** Kuwait City, KW 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 08, 01, 2025 🚀
