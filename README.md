@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Kuwait City, KW 🌐
+**Ciudad:** Athens, GR 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 08, 01, 2025 🚀
+**Fecha:** 📅 09, 01, 2025 🚀
