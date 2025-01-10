@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Athens, GR 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 09, 01, 2025 🚀
+**Ciudad:** Guadalajara, MX 🌐
+**Clima:** 🌧️ Lluvia moderada
+**Fecha:** 📅 10, 01, 2025 🚀
