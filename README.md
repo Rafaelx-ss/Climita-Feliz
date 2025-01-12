@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Thimphu, BT 🌐
-**Clima:** ☀️ Cielo claro
+**Ciudad:** Puebla, MX 🌐
+**Clima:** ☁️ Algo de nubes
 **Fecha:** 📅 11, 01, 2025 🚀
