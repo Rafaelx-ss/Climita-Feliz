@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Puebla, MX 🌐
-**Clima:** ☁️ Algo de nubes
-**Fecha:** 📅 11, 01, 2025 🚀
+**Ciudad:** Maputo, MZ 🌐
+**Clima:** 🌧️ Tormenta con lluvia
+**Fecha:** 📅 12, 01, 2025 🚀
