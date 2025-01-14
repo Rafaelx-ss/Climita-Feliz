@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Tokyo, JP 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 13, 01, 2025 🚀
+**Ciudad:** Cartagena, CO 🌐
+**Clima:** ☁️ Algo de nubes
+**Fecha:** 📅 14, 01, 2025 🚀
