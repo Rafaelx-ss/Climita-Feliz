@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Asunción, PY 🌐
-**Clima:** 🌈 Muy nuboso
+**Ciudad:** Pretoria, ZA 🌐
+**Clima:** ☁️ Algo de nubes
 **Fecha:** 📅 19, 01, 2025 🚀
