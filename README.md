@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Monterrey, MX 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 20, 01, 2025 🚀
+**Ciudad:** Barcelona, ES 🌐
+**Clima:** 🌧️ Lluvia ligera
+**Fecha:** 📅 21, 01, 2025 🚀
