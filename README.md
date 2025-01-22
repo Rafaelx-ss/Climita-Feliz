@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Barcelona, ES 🌐
-**Clima:** 🌧️ Lluvia ligera
-**Fecha:** 📅 21, 01, 2025 🚀
+**Ciudad:** Atlanta, US 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 22, 01, 2025 🚀
