@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Atlanta, US 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 22, 01, 2025 🚀
+**Ciudad:** Lagos, NG 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 23, 01, 2025 🚀
