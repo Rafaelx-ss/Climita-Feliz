@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Lagos, NG 🌐
-**Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 23, 01, 2025 🚀
+**Ciudad:** Santiago de Cali, CO 🌐
+**Clima:** 🌤️ Nubes dispersas
+**Fecha:** 📅 24, 01, 2025 🚀
