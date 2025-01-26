@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Tokyo, JP 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 25, 01, 2025 🚀
+**Ciudad:** Beijing, CN 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 26, 01, 2025 🚀
