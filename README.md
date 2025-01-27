@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Beijing, CN 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 26, 01, 2025 🚀
+**Ciudad:** Accra, GH 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 27, 01, 2025 🚀
