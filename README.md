@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Accra, GH 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 27, 01, 2025 🚀
+**Ciudad:** Mendoza, AR 🌐
+**Clima:** 🌤️ Nubes dispersas
+**Fecha:** 📅 28, 01, 2025 🚀
