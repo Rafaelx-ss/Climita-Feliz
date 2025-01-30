@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Mendoza, AR 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 28, 01, 2025 🚀
+**Ciudad:** Dublin, IE 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 29, 01, 2025 🚀
