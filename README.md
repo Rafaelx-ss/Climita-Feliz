@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Pune, IN 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 31, 01, 2025 🚀
+**Ciudad:** Rome, IT 🌐
+**Clima:** ☁️ Algo de nubes
+**Fecha:** 📅 01, 02, 2025 🚀
