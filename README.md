@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Dublin, IE 🌐
-**Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 01, 02, 2025 🚀
+**Ciudad:** Prague, CZ 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 02, 02, 2025 🚀
