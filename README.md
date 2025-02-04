@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Melbourne, AU 🌐
-**Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 03, 02, 2025 🚀
+**Ciudad:** Halifax, CA 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 04, 02, 2025 🚀
