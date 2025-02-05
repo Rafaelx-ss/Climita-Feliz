@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Halifax, CA 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 04, 02, 2025 🚀
+**Ciudad:** La Paz, BO 🌐
+**Clima:** ☁️ Algo de nubes
+**Fecha:** 📅 05, 02, 2025 🚀
