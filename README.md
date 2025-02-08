@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Tuxtla Gutiérrez, MX 🌐
-**Clima:** 🌤️ Nubes dispersas
+**Ciudad:** Beijing, CN 🌐
+**Clima:** ☀️ Cielo claro
 **Fecha:** 📅 08, 02, 2025 🚀
