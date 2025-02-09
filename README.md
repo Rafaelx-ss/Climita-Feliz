@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Beijing, CN 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 08, 02, 2025 🚀
+**Ciudad:** Salvador, BR 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 09, 02, 2025 🚀
