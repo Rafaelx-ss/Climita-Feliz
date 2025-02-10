@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Salvador, BR 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 09, 02, 2025 🚀
+**Ciudad:** Lima, PE 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 10, 02, 2025 🚀
