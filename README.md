@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Malé, MV 🌐
-**Clima:** 🌫️ Niebla
+**Ciudad:** Salvador, BR 🌐
+**Clima:** ☀️ Cielo claro
 **Fecha:** 📅 11, 02, 2025 🚀
