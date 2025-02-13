@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Morelia, MX 🌐
-**Clima:** 🌤️ Nubes dispersas
+**Ciudad:** Ulaanbaatar, MN 🌐
+**Clima:** ☀️ Cielo claro
 **Fecha:** 📅 13, 02, 2025 🚀
