@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Pune, IN 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 14, 02, 2025 🚀
+**Ciudad:** Barquisimeto, VE 🌐
+**Clima:** ☁️ Algo de nubes
+**Fecha:** 📅 15, 02, 2025 🚀
