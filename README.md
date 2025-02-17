@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Luanda, AO 🌐
+**Ciudad:** Bengaluru, IN 🌐
 **Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 16, 02, 2025 🚀
+**Fecha:** 📅 17, 02, 2025 🚀
