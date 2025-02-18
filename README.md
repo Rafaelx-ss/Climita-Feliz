@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Bengaluru, IN 🌐
-**Clima:** 🌈 Muy nuboso
+**Ciudad:** Nairobi, KE 🌐
+**Clima:** ☁️ Algo de nubes
 **Fecha:** 📅 17, 02, 2025 🚀
