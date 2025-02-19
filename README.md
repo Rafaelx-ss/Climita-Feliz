@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Oaxaca City, MX 🌐
-**Clima:** 🌧️ Lluvia ligera
-**Fecha:** 📅 18, 02, 2025 🚀
+**Ciudad:** Jeddah, SA 🌐
+**Clima:** ☁️ Algo de nubes
+**Fecha:** 📅 19, 02, 2025 🚀
