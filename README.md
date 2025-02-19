@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Nairobi, KE 🌐
-**Clima:** ☁️ Algo de nubes
-**Fecha:** 📅 17, 02, 2025 🚀
+**Ciudad:** Oaxaca City, MX 🌐
+**Clima:** 🌧️ Lluvia ligera
+**Fecha:** 📅 18, 02, 2025 🚀
