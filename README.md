@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Seattle, US 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 19, 02, 2025 🚀
+**Ciudad:** Santa Cruz de la Sierra, BO 🌐
+**Clima:** 🌤️ Nubes dispersas
+**Fecha:** 📅 20, 02, 2025 🚀
