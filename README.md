@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Paris, FR 🌐
-**Clima:** 🌧️ Lluvia ligera
-**Fecha:** 📅 21, 02, 2025 🚀
+**Ciudad:** Pyongyang, KP 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 22, 02, 2025 🚀
