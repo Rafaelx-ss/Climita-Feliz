@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Pyongyang, KP 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 22, 02, 2025 🚀
+**Ciudad:** Oslo, NO 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 23, 02, 2025 🚀
