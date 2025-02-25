@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Oslo, NO 🌐
+**Ciudad:** Miami, US 🌐
 **Clima:** ☁️ Nubes
-**Fecha:** 📅 23, 02, 2025 🚀
+**Fecha:** 📅 24, 02, 2025 🚀
