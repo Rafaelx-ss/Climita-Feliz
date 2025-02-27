@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Miami, US 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 24, 02, 2025 🚀
+**Ciudad:** Tashkent, UZ 🌐
+**Clima:** 🌫️ Niebla
+**Fecha:** 📅 26, 02, 2025 🚀
