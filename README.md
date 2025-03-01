@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Mendoza, AR 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 28, 02, 2025 🚀
+**Ciudad:** Maracaibo, VE 🌐
+**Clima:** 🌤️ Nubes dispersas
+**Fecha:** 📅 01, 03, 2025 🚀
