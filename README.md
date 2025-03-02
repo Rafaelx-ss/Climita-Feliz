@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Maracaibo, VE 🌐
+**Ciudad:** Puebla, MX 🌐
 **Clima:** 🌤️ Nubes dispersas
 **Fecha:** 📅 01, 03, 2025 🚀
