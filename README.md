@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Calgary, CA 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 02, 03, 2025 🚀
+**Ciudad:** Valparaíso, CL 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 03, 03, 2025 🚀
