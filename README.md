@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Ulaanbaatar, MN 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 03, 03, 2025 🚀
+**Ciudad:** Salvador, BR 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 04, 03, 2025 🚀
