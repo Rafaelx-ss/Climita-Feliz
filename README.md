@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Valparaíso, CL 🌐
-**Clima:** ☀️ Cielo claro
+**Ciudad:** Ulaanbaatar, MN 🌐
+**Clima:** 🌤️ Nubes dispersas
 **Fecha:** 📅 03, 03, 2025 🚀
