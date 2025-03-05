@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Salvador, BR 🌐
-**Clima:** ☀️ Cielo claro
+**Ciudad:** Stockholm, SE 🌐
+**Clima:** ☁️ Nubes
 **Fecha:** 📅 04, 03, 2025 🚀
