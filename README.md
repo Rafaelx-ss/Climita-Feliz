@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Stockholm, SE 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 04, 03, 2025 🚀
+**Ciudad:** León, MX 🌐
+**Clima:** ☁️ Algo de nubes
+**Fecha:** 📅 05, 03, 2025 🚀
