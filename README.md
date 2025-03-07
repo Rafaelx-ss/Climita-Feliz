@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** León, MX 🌐
-**Clima:** ☁️ Algo de nubes
-**Fecha:** 📅 05, 03, 2025 🚀
+**Ciudad:** Cairo, EG 🌐
+**Clima:** 🌫️ Niebla
+**Fecha:** 📅 06, 03, 2025 🚀
