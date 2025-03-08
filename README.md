@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Cairo, EG 🌐
+**Ciudad:** Hyderabad, IN 🌐
 **Clima:** 🌫️ Niebla
-**Fecha:** 📅 06, 03, 2025 🚀
+**Fecha:** 📅 07, 03, 2025 🚀
