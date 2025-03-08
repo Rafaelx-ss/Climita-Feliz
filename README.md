@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Hyderabad, IN 🌐
-**Clima:** 🌫️ Niebla
+**Ciudad:** Culiacán, MX 🌐
+**Clima:** ☀️ Cielo claro
 **Fecha:** 📅 07, 03, 2025 🚀
