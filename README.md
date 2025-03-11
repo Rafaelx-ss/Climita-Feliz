@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Doha, QA 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 09, 03, 2025 🚀
+**Ciudad:** Casablanca, MA 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 10, 03, 2025 🚀
