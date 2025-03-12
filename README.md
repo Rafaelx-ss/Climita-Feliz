@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Casablanca, MA 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 10, 03, 2025 🚀
+**Ciudad:** León, MX 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 11, 03, 2025 🚀
