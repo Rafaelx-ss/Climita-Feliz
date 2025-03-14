@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Paris, FR 🌐
+**Ciudad:** Cartagena, CO 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 13, 03, 2025 🚀
+**Fecha:** 📅 14, 03, 2025 🚀
