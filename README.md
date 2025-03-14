@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** León, MX 🌐
+**Ciudad:** Paris, FR 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 11, 03, 2025 🚀
+**Fecha:** 📅 13, 03, 2025 🚀
