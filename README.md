@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Cartagena, CO 🌐
-**Clima:** ☀️ Cielo claro
+**Ciudad:** Seattle, US 🌐
+**Clima:** ☁️ Nubes
 **Fecha:** 📅 14, 03, 2025 🚀
