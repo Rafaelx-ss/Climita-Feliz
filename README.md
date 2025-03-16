@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Buenos Aires, AR 🌐
+**Ciudad:** Bengaluru, IN 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 15, 03, 2025 🚀
+**Fecha:** 📅 16, 03, 2025 🚀
