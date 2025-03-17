@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Bengaluru, IN 🌐
+**Ciudad:** Guadalajara, MX 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 16, 03, 2025 🚀
+**Fecha:** 📅 17, 03, 2025 🚀
