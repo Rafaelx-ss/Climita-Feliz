@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Guadalajara, MX 🌐
+**Ciudad:** Córdoba, AR 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 17, 03, 2025 🚀
+**Fecha:** 📅 18, 03, 2025 🚀
