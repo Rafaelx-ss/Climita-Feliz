@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Córdoba, AR 🌐
+**Ciudad:** Muscat, OM 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 18, 03, 2025 🚀
+**Fecha:** 📅 19, 03, 2025 🚀
