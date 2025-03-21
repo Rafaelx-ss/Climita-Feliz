@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Muscat, OM 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 19, 03, 2025 🚀
+**Ciudad:** Pretoria, ZA 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 20, 03, 2025 🚀
