@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Pretoria, ZA 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 20, 03, 2025 🚀
+**Ciudad:** Boston, US 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 21, 03, 2025 🚀
