@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Mexico City, MX 🌐
-**Clima:** 🌤️ Nubes dispersas
+**Ciudad:** Accra, GH 🌐
+**Clima:** ☁️ Algo de nubes
 **Fecha:** 📅 23, 03, 2025 🚀
