@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Manama, BH 🌐
-**Clima:** ☀️ Cielo claro
+**Ciudad:** Johannesburg, ZA 🌐
+**Clima:** 🌧️ Lluvia ligera
 **Fecha:** 📅 24, 03, 2025 🚀
