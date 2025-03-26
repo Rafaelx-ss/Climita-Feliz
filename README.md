@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Johannesburg, ZA 🌐
-**Clima:** 🌧️ Lluvia ligera
-**Fecha:** 📅 24, 03, 2025 🚀
+**Ciudad:** Baghdad, IQ 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 25, 03, 2025 🚀
