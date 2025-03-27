@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Tashkent, UZ 🌐
-**Clima:** ☁️ Algo de nubes
-**Fecha:** 📅 25, 03, 2025 🚀
+**Ciudad:** Warsaw, PL 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 26, 03, 2025 🚀
