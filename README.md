@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Barranquilla, CO 🌐
-**Clima:** ☁️ Algo de nubes
-**Fecha:** 📅 27, 03, 2025 🚀
+**Ciudad:** Tuxtla Gutiérrez, MX 🌐
+**Clima:** 🌤️ Nubes dispersas
+**Fecha:** 📅 30, 03, 2025 🚀
