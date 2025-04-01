@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Oaxaca City, MX 🌐
-**Clima:** ☀️ Cielo claro
+**Ciudad:** Brasília, BR 🌐
+**Clima:** 🌈 Muy nuboso
 **Fecha:** 📅 31, 03, 2025 🚀
