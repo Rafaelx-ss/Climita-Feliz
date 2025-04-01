@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Tuxtla Gutiérrez, MX 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 30, 03, 2025 🚀
+**Ciudad:** Oaxaca City, MX 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 31, 03, 2025 🚀
