@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Calgary, CA 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 08, 04, 2025 🚀
+**Ciudad:** Viña del Mar, CL 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 13, 04, 2025 🚀
