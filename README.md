@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Viña del Mar, CL 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 13, 04, 2025 🚀
+**Ciudad:** Hanoi, VN 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 30, 04, 2025 🚀
