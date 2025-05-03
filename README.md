@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Hanoi, VN 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 30, 04, 2025 🚀
+**Ciudad:** Miami, US 🌐
+**Clima:** 🌤️ Nubes dispersas
+**Fecha:** 📅 02, 05, 2025 🚀
