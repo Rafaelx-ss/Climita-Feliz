@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Miami, US 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 02, 05, 2025 🚀
+**Ciudad:** Dar es Salaam, TZ 🌐
+**Clima:** 🌧️ Lluvia ligera
+**Fecha:** 📅 04, 05, 2025 🚀
