@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Cairo, EG 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 22, 05, 2025 🚀
+**Ciudad:** Kathmandu, NP 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 23, 05, 2025 🚀
