@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Kathmandu, NP 🌐
+**Ciudad:** Santa Cruz de la Sierra, BO 🌐
 **Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 23, 05, 2025 🚀
+**Fecha:** 📅 25, 05, 2025 🚀
