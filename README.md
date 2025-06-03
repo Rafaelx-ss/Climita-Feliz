@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Durango, MX 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 01, 06, 2025 🚀
+**Ciudad:** Baghdad, IQ 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 02, 06, 2025 🚀
