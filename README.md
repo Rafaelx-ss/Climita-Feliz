@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Mendoza, AR 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 08, 06, 2025 🚀
+**Ciudad:** Washington D.C., US 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 09, 06, 2025 🚀
