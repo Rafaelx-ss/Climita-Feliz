@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Harare, ZW 🌐
-**Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 11, 06, 2025 🚀
+**Ciudad:** London, GB 🌐
+**Clima:** 🌤️ Nubes dispersas
+**Fecha:** 📅 12, 06, 2025 🚀
