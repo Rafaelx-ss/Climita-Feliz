@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** London, GB 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 12, 06, 2025 🚀
+**Ciudad:** São Paulo, BR 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 17, 06, 2025 🚀
