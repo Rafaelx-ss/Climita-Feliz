@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** São Paulo, BR 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 17, 06, 2025 🚀
+**Ciudad:** Ahmedabad, IN 🌐
+**Clima:** 🌫️ Niebla
+**Fecha:** 📅 20, 06, 2025 🚀
