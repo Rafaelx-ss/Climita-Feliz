@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Muscat, OM 🌐
+**Ciudad:** Belgrade, RS 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 25, 06, 2025 🚀
+**Fecha:** 📅 26, 06, 2025 🚀
