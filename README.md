@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Phnom Penh, KH 🌐
-**Clima:** 🌤️ Nubes dispersas
+**Ciudad:** Dallas, US 🌐
+**Clima:** ☁️ Algo de nubes
 **Fecha:** 📅 28, 06, 2025 🚀
