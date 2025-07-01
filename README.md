@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Dallas, US 🌐
+**Ciudad:** San Diego, US 🌐
 **Clima:** ☁️ Algo de nubes
-**Fecha:** 📅 28, 06, 2025 🚀
+**Fecha:** 📅 30, 06, 2025 🚀
