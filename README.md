@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Riyadh, SA 🌐
+**Ciudad:** Manama, BH 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 02, 07, 2025 🚀
+**Fecha:** 📅 03, 07, 2025 🚀
