@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Manama, BH 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 03, 07, 2025 🚀
+**Ciudad:** Asunción, PY 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 04, 07, 2025 🚀
