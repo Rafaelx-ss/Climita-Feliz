@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Caracas, VE 🌐
-**Clima:** ☁️ Algo de nubes
-**Fecha:** 📅 07, 07, 2025 🚀
+**Ciudad:** Accra, GH 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 10, 07, 2025 🚀
