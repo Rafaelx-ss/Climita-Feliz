@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Accra, GH 🌐
-**Clima:** 🌈 Muy nuboso
+**Ciudad:** Hanoi, VN 🌐
+**Clima:** ☁️ Nubes
 **Fecha:** 📅 10, 07, 2025 🚀
