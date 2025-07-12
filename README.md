@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Hanoi, VN 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 10, 07, 2025 🚀
+**Ciudad:** Prague, CZ 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 12, 07, 2025 🚀
