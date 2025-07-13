@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Prague, CZ 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 12, 07, 2025 🚀
+**Ciudad:** Guadalajara, MX 🌐
+**Clima:** 🌫️ Niebla
+**Fecha:** 📅 13, 07, 2025 🚀
