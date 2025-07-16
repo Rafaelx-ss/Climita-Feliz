@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Morelia, MX 🌐
-**Clima:** 🌧️ Lluvia moderada
-**Fecha:** 📅 14, 07, 2025 🚀
+**Ciudad:** Dublin, IE 🌐
+**Clima:** ☁️ Algo de nubes
+**Fecha:** 📅 15, 07, 2025 🚀
