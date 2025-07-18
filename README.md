@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Dublin, IE 🌐
-**Clima:** ☁️ Algo de nubes
-**Fecha:** 📅 15, 07, 2025 🚀
+**Ciudad:** Lagos, NG 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 17, 07, 2025 🚀
