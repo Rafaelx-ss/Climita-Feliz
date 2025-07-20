@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Lagos, NG 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 17, 07, 2025 🚀
+**Ciudad:** Fortaleza, BR 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 19, 07, 2025 🚀
