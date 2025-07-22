@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Fortaleza, BR 🌐
-**Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 19, 07, 2025 🚀
+**Ciudad:** Nairobi, KE 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 22, 07, 2025 🚀
