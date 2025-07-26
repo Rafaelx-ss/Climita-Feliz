@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Harare, ZW 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 25, 07, 2025 🚀
+**Ciudad:** Bengaluru, IN 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 26, 07, 2025 🚀
