@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Brasília, BR 🌐
-**Clima:** ☀️ Cielo claro
+**Ciudad:** Puebla, MX 🌐
+**Clima:** 🌧️ Lluvia ligera
 **Fecha:** 📅 31, 07, 2025 🚀
