@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Puebla, MX 🌐
-**Clima:** 🌧️ Lluvia ligera
-**Fecha:** 📅 31, 07, 2025 🚀
+**Ciudad:** Seattle, US 🌐
+**Clima:** 🌫️ Niebla
+**Fecha:** 📅 02, 08, 2025 🚀
