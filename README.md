@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Valparaíso, CL 🌐
-**Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 07, 08, 2025 🚀
+**Ciudad:** Quito, EC 🌐
+**Clima:** 🌧️ Lluvia moderada
+**Fecha:** 📅 08, 08, 2025 🚀
