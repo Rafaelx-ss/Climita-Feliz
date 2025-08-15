@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Rosario, AR 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 10, 08, 2025 🚀
+**Ciudad:** Muscat, OM 🌐
+**Clima:** ☁️ Nubes
+**Fecha:** 📅 14, 08, 2025 🚀
