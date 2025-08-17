@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Muscat, OM 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 14, 08, 2025 🚀
+**Ciudad:** La Paz, BO 🌐
+**Clima:** ☁️ Algo de nubes
+**Fecha:** 📅 16, 08, 2025 🚀
