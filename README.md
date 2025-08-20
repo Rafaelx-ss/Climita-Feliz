@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** La Paz, BO 🌐
-**Clima:** ☁️ Algo de nubes
-**Fecha:** 📅 16, 08, 2025 🚀
+**Ciudad:** Casablanca, MA 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 19, 08, 2025 🚀
