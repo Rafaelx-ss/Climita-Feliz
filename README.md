@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Salvador, BR 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 20, 08, 2025 🚀
+**Ciudad:** Singapore, SG 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 23, 08, 2025 🚀
