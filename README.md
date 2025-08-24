@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Singapore, SG 🌐
-**Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 23, 08, 2025 🚀
+**Ciudad:** Mumbai, IN 🌐
+**Clima:** 🌫️ Niebla
+**Fecha:** 📅 24, 08, 2025 🚀
