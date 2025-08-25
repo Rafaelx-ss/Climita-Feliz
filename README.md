@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Mumbai, IN 🌐
-**Clima:** 🌫️ Niebla
+**Ciudad:** San Diego, US 🌐
+**Clima:** 🌈 Muy nuboso
 **Fecha:** 📅 24, 08, 2025 🚀
