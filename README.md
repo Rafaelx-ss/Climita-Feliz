@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Asunción, PY 🌐
+**Ciudad:** Bishkek, KG 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 26, 08, 2025 🚀
+**Fecha:** 📅 27, 08, 2025 🚀
