@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Bishkek, KG 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 27, 08, 2025 🚀
+**Ciudad:** Calgary, CA 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 28, 08, 2025 🚀
