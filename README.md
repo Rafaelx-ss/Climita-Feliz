@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** San Francisco, US 🌐
-**Clima:** ☁️ Algo de nubes
-**Fecha:** 📅 29, 08, 2025 🚀
+**Ciudad:** Sucre, BO 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 30, 08, 2025 🚀
