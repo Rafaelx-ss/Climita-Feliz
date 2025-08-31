@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Sucre, BO 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 30, 08, 2025 🚀
+**Ciudad:** Accra, GH 🌐
+**Clima:** ☁️ Algo de nubes
+**Fecha:** 📅 31, 08, 2025 🚀
