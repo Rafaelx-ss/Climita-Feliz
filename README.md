@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Luanda, AO 🌐
-**Clima:** 🌈 Muy nuboso
+**Ciudad:** Kuwait City, KW 🌐
+**Clima:** ☀️ Cielo claro
 **Fecha:** 📅 01, 09, 2025 🚀
