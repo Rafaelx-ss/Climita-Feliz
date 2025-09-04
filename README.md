@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Kuwait City, KW 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 01, 09, 2025 🚀
+**Ciudad:** Phnom Penh, KH 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 03, 09, 2025 🚀
