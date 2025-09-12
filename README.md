@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Amman, JO 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 10, 09, 2025 🚀
+**Ciudad:** Bengaluru, IN 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 11, 09, 2025 🚀
