@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Bengaluru, IN 🌐
-**Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 11, 09, 2025 🚀
+**Ciudad:** Chihuahua, MX 🌐
+**Clima:** 🌤️ Nubes dispersas
+**Fecha:** 📅 13, 09, 2025 🚀
