@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Budapest, HU 🌐
-**Clima:** ☀️ Cielo claro
+**Ciudad:** Ottawa, CA 🌐
+**Clima:** ☁️ Algo de nubes
 **Fecha:** 📅 20, 09, 2025 🚀
