@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Santa Cruz de la Sierra, BO 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 18, 09, 2025 🚀
+**Ciudad:** Budapest, HU 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 20, 09, 2025 🚀
