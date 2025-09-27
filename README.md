@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Abu Dhabi, AE 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 25, 09, 2025 🚀
+**Ciudad:** Mérida, MX 🌐
+**Clima:** 🌧️ Lluvia ligera
+**Fecha:** 📅 26, 09, 2025 🚀
