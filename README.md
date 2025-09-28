@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Mérida, MX 🌐
-**Clima:** 🌧️ Lluvia ligera
-**Fecha:** 📅 26, 09, 2025 🚀
+**Ciudad:** Campinas, BR 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 27, 09, 2025 🚀
