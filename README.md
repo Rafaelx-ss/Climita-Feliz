@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Campinas, BR 🌐
+**Ciudad:** Buenos Aires, AR 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 27, 09, 2025 🚀
+**Fecha:** 📅 02, 10, 2025 🚀
