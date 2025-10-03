@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Buenos Aires, AR 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 02, 10, 2025 🚀
+**Ciudad:** León, MX 🌐
+**Clima:** 🌤️ Nubes dispersas
+**Fecha:** 📅 03, 10, 2025 🚀
