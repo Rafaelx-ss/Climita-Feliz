@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Harare, ZW 🌐
+**Ciudad:** Viña del Mar, CL 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 04, 10, 2025 🚀
+**Fecha:** 📅 05, 10, 2025 🚀
