@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Luanda, AO 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 05, 10, 2025 🚀
+**Ciudad:** Barquisimeto, VE 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 06, 10, 2025 🚀
