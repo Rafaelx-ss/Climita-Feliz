@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Thimphu, BT 🌐
+**Ciudad:** Jeddah, SA 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 06, 10, 2025 🚀
+**Fecha:** 📅 07, 10, 2025 🚀
