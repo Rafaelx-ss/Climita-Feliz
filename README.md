@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Ahmedabad, IN 🌐
-**Clima:** 💨 Humo
-**Fecha:** 📅 11, 10, 2025 🚀
+**Ciudad:** Barcelona, ES 🌐
+**Clima:** 🌤️ Nubes dispersas
+**Fecha:** 📅 12, 10, 2025 🚀
