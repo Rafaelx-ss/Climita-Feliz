@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Barcelona, ES 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 12, 10, 2025 🚀
+**Ciudad:** Ottawa, CA 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 13, 10, 2025 🚀
