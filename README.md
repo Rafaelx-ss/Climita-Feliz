@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Ottawa, CA 🌐
-**Clima:** 🌈 Muy nuboso
-**Fecha:** 📅 13, 10, 2025 🚀
+**Ciudad:** Hong Kong, HK 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 14, 10, 2025 🚀
