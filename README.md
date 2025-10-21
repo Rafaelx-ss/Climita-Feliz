@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Sofia, BG 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 18, 10, 2025 🚀
+**Ciudad:** Tokyo, JP 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 20, 10, 2025 🚀
