@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Seattle, US 🌐
+**Ciudad:** Ulaanbaatar, MN 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 21, 10, 2025 🚀
+**Fecha:** 📅 23, 10, 2025 🚀
