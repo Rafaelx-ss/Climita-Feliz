@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Ulaanbaatar, MN 🌐
+**Ciudad:** Manama, BH 🌐
 **Clima:** ☀️ Cielo claro
 **Fecha:** 📅 23, 10, 2025 🚀
