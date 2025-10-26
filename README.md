@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Manama, BH 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 23, 10, 2025 🚀
+**Ciudad:** Bucharest, RO 🌐
+**Clima:** 🌧️ Lluvia ligera
+**Fecha:** 📅 25, 10, 2025 🚀
