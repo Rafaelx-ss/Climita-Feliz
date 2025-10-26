@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Bucharest, RO 🌐
+**Ciudad:** Helsinki, FI 🌐
 **Clima:** 🌧️ Lluvia ligera
-**Fecha:** 📅 25, 10, 2025 🚀
+**Fecha:** 📅 26, 10, 2025 🚀
