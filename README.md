@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Helsinki, FI 🌐
-**Clima:** 🌧️ Lluvia ligera
-**Fecha:** 📅 26, 10, 2025 🚀
+**Ciudad:** Salvador, BR 🌐
+**Clima:** ☀️ Cielo claro
+**Fecha:** 📅 27, 10, 2025 🚀
