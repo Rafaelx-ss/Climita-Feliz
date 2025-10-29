@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Salvador, BR 🌐
+**Ciudad:** Querétaro, MX 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 27, 10, 2025 🚀
+**Fecha:** 📅 28, 10, 2025 🚀
