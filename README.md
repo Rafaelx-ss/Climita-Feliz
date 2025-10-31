@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Chicago, US 🌐
-**Clima:** ☀️ Cielo claro
-**Fecha:** 📅 29, 10, 2025 🚀
+**Ciudad:** Guadalajara, MX 🌐
+**Clima:** 🌤️ Nubes dispersas
+**Fecha:** 📅 30, 10, 2025 🚀
