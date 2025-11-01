@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Oslo, NO 🌐
-**Clima:** 🌤️ Nubes dispersas
-**Fecha:** 📅 30, 10, 2025 🚀
+**Ciudad:** Thimphu, BT 🌐
+**Clima:** 🌧️ Lluvia ligera
+**Fecha:** 📅 31, 10, 2025 🚀
