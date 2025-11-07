@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** London, GB 🌐
-**Clima:** ☁️ Nubes
-**Fecha:** 📅 05, 11, 2025 🚀
+**Ciudad:** Sarajevo, BA 🌐
+**Clima:** 🌈 Bruma
+**Fecha:** 📅 06, 11, 2025 🚀
