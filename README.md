@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Sarajevo, BA 🌐
-**Clima:** 🌈 Bruma
-**Fecha:** 📅 06, 11, 2025 🚀
+**Ciudad:** Querétaro, MX 🌐
+**Clima:** 🌈 Muy nuboso
+**Fecha:** 📅 08, 11, 2025 🚀
