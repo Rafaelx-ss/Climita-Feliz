@@ -1,5 +1,5 @@
 # 🌍 Reporte del Clima de Hoy
 
-**Ciudad:** Casablanca, MA 🌐
+**Ciudad:** Buenos Aires, AR 🌐
 **Clima:** ☀️ Cielo claro
-**Fecha:** 📅 10, 11, 2025 🚀
+**Fecha:** 📅 12, 11, 2025 🚀
